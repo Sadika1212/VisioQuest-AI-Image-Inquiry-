@@ -4,6 +4,12 @@
 VisioQuest is an advanced Visual Question Answering (VQA) project that leverages the power of Vision Transformers (ViT) and RoBERTa to answer questions about images. This project utilizes the DAQUAR dataset and integrates a multimodal model to process both textual and image data for accurate question answering.
 
 ## Demo
+<p float="left">
+  <img src="/![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/332ddd3c-a134-48bd-9452-87470cedfbcb)" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/332ddd3c-a134-48bd-9452-87470cedfbcb) ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/cd6276b8-5cab-4973-b823-f1ae6f310423)  ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/f01c6e0a-fee6-4622-accc-3773150533f1)  ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/3601e4af-760d-4aa2-8782-d0e9fb82aa11)  ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/60c0afbe-4ed2-47f1-9c03-9eb89df02520)  ![image](https://github.com/Sadika1212/VisioQuest-AI-Image-Inquiry-/assets/57654473/2d77c18c-5c4c-4c3d-9f30-d9946add4c16)
 
 ## Dataset
