@@ -5,12 +5,12 @@ VisioQuest is an advanced Visual Question Answering (VQA) project that leverages
 
 ## Demo
 <p float="left">
-  <img src="/images/img1.png" width="300" />
-  <img src="/images/img2.png" width="300" /> 
-  <img src="/images/img3.png" width="300" />
-  <img src="/images/img4.png" width="300" />
-  <img src="/images/img5.png" width="300" /> 
-  <img src="/images/img6.png" width="300" />
+  <img src="/images/img1.png" width="480" />
+  <img src="/images/img2.png" width="480" /> 
+  <img src="/images/img3.png" width="480" />
+  <img src="/images/img4.png" width="480" />
+  <img src="/images/img5.png" width="480" /> 
+  <img src="/images/img6.png" width="480" />
 </p>
 
 ## Dataset
