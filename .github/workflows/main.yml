@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://Sadika1212:$HF_TOKEN@huggingface.co/spaces/Sadika1212/VisioQuest-AI-Image-Inquiry main
+        run: git push --force https://Sadika1212:$HF_TOKEN@huggingface.co/spaces/Sadika1212/VisioQuest-AI-Image-Inquiry main
