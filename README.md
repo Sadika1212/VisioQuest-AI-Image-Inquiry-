@@ -1,5 +1,6 @@
 # VisioQuest-AI-Image-Inquiry-
 
+---
 title: VisioQuest AI Image Inquiry
 emoji: 🏢
 colorFrom: red
@@ -8,6 +9,7 @@ sdk: streamlit
 sdk_version: 1.35.0
 app_file: app.py
 pinned: false
+---
 
 ## Overview
 VisioQuest is an advanced Visual Question Answering (VQA) project that leverages the power of Vision Transformers (ViT) and RoBERTa to answer questions about images. This project utilizes the DAQUAR dataset and integrates a multimodal model to process both textual and image data for accurate question answering.
