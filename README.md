@@ -1,7 +1,7 @@
 # VisioQuest-AI-Image-Inquiry-
 
 ## Overview
-VisioQuest is an advanced Visual Question Answering (VQA) project that leverages the power of Vision Transformers (ViT) and RoBERTa to answer questions about images. This project utilizes the DAQUAR dataset and integrates a multimodal model to process both textual and image data for accurate question answering.
+VisioQuest is an advanced Visual Question Answering (VQA) project that leverages the power of Vision Transformers (ViT) and RoBERTa to answer questions about images. This project utilizes the DAQUAR dataset and integrates a multimodal model to process both textual and image data for accurate question answering. Find the pre-trained model here: https://drive.google.com/file/d/1WZZsKn80fjxHQaFz4MoNd8kkgKQvAgwb/view?usp=sharing
 
 ## Demo
 <p float="left">
